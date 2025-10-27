@@ -26,8 +26,3 @@ SmartBankPlus is a modern, secure, and responsive **Online Banking System** deve
 | Database Design | Relational DBMS (ER Model)  |
 | PDF Export      | jsPDF Library               |
 | Deployment      | Static Hosting Supported    |
-
----
-
-## 📦 Project Structure
-
